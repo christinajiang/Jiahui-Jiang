@@ -1,2 +1,2 @@
-# Jiahui-Jiang
-prediction of taxi trip duration in New York City 
+# Predicting Taxi Trip Duration in New York City 
+KNN | Shiny Map
